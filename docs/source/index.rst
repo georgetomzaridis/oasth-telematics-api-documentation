@@ -1,13 +1,8 @@
 Unofficial OASTH Telematics API
 ===================================
 
-**OASTH Telematics API** is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
 **OASTH Telematics API** is a unofficial microservice, that gathers real-time (per request) data from existing OASTH
-API Infrastructure, organize / format and provide it in a usefull way (developer friendly) using JSON format.
+API Infrastructure, organize / format and provide it in a usefull way *(developer friendly)* using JSON format.
 Created by `George Tomzaridis <https://georgetomzaridis.eu/>`_ and is open for public usage.
 
 OASTH = Organisation of Urban Transportation of Thessaloniki
