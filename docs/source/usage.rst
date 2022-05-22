@@ -3,32 +3,29 @@ Usage
 
 .. _installation:
 
-Installation
+Access
 ------------
 
-To use Lumache, first install it using pip:
+You can access the OASTH Telematics API with the following link
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   https://oasth-telematics-api.georgetomzaridis.eu/
 
-Creating recipes
+Authentication
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+You don't need any token / api key to access the endpoints. It's open for public usage.
 
-.. autofunction:: lumache.get_random_ingredients
+Technical Information
+------------
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+We allow specific methods to access the API and we reply back with specific format.
 
-.. autoexception:: lumache.InvalidKindError
+.. code-block:: console
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+   Allowed Methods: GET
+   Response Data: application/json; charset=utf-8
+   Tech stack: Nodej.JS / Express.JS / Axios
+   Web Gateway: Nginx
 
