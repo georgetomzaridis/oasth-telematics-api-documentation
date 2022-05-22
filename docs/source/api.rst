@@ -14,7 +14,7 @@ Returns some project information and internal JSON formated endpoint documentati
    https://oasth-telematics-api.georgetomzaridis.eu/
    
 API Response
-----------------
+
 
 
 .. code-block:: json
@@ -65,7 +65,7 @@ Returns all the Bus Lines
    https://oasth-telematics-api.georgetomzaridis.eu/getBusLines
    
 API Response
-----------------
+
 
 
 .. code-block:: json
@@ -94,7 +94,7 @@ API Response
    ]
 
 Data structure
-----------------
+
 
 .. code-block:: console
 
@@ -121,7 +121,7 @@ Returns all the Routes
    https://oasth-telematics-api.georgetomzaridis.eu/getRoutes
    
 API Response
-----------------
+
 .. code-block:: json
 
    [
@@ -144,7 +144,7 @@ API Response
    ]
 
 Data structure
-----------------
+
 
 .. code-block:: console
 
@@ -169,7 +169,7 @@ Returns all the stops for every route
    https://oasth-telematics-api.georgetomzaridis.eu/getRouteStops
    
 API Response
-----------------
+
 .. code-block:: json
 
    [
@@ -194,7 +194,7 @@ API Response
    ]
 
 Data structure
-----------------
+
 
 .. code-block:: console
 
@@ -216,7 +216,7 @@ Returns all the bus stops
    https://oasth-telematics-api.georgetomzaridis.eu/getBusStops
    
 API Response
-----------------
+
 .. code-block:: json
 
    [
@@ -251,7 +251,7 @@ API Response
    ]
 
 Data structure
-----------------
+
 
 .. code-block:: console
 
