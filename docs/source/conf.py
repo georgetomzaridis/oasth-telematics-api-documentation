@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Unofficial OASTH Telematics API'
+copyright = '2022, George Tomzaridis'
+author = 'George Tomzaridis'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.0.1-beta'
+version = '0.0.1-beta'
 
 # -- General configuration
 
