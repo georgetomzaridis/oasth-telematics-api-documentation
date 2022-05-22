@@ -1,13 +1,13 @@
 About
 ===================================
 
-**Created by George Tomzaridis and deployed for the first time (v0.0.1-beta) at 22/05/2022 22:00
+Created by George Tomzaridis and deployed for the first time (v0.0.1-beta) at 22/05/2022 22:00
 
-*Github: https://github.com/georgetomzaridis
-*Website: https://georgetomzaridis.eu
-*Facebook: https://www.facebook.com/georgetomzaridis/
-*Linkedln: https://www.linkedin.com/in/georgetomzaridis/
-*Email: georgetomzaridis@gmail.com
+* Github: https://github.com/georgetomzaridis
+* Website: https://georgetomzaridis.eu
+* Facebook: https://www.facebook.com/georgetomzaridis/
+* Linkedln: https://www.linkedin.com/in/georgetomzaridis/
+* Email: georgetomzaridis@gmail.com
 
 Feel free to contact me and find me in social media, tell me your ideas, new features, feedback or just say hi!
 
@@ -26,4 +26,3 @@ Contents
    api
    changelog
    news
-   about
