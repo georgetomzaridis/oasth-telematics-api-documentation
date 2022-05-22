@@ -26,7 +26,7 @@ We allow specific methods to access the API and we reply back with specific form
 Authentication
 ----------------
 
-You don't need any token / api key to access the endpoints. It's open for public usage.
+You don't need anything, in order to access the API endpoints. It's open for public usage.
 
 
 
