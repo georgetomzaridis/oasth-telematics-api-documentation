@@ -1,4 +1,4 @@
-Usage
+Usage (ARCHIVED/DISCONTINUED)
 =====
 
 .. _Disclaimer:
@@ -10,16 +10,12 @@ Disclaimer
 
    This project is under active development. The creator is not responsible for any malicious action that could damage his own systems or those of third parties (OASTH Infrastructure). In case of a legal problem, the creator upon request has the right to terminate the operation of the service at any time, without further notice. Only for personal use, not commercial.
 
+!!! THE SERVICE DISCONTINUED AND MARKED AS ARCHIEVE FOR FUTURE READING. YOU CANNOT CALL THE API ANYMORE. MORE INFO IN THE NEWS PAGE !!!
+
 .. _Access:
 
 Access
 ------------
-
-You can access the OASTH Telematics API with the following link
-
-.. code-block:: console
-
-   https://oasth-telematics-api.georgetomzaridis.eu/
    
 We allow specific methods to access the API and we reply back with specific format.
 
