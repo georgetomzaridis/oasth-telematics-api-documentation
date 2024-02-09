@@ -6,12 +6,6 @@ API Endpoints
 
 GET /
 ------------
-
-Returns some project information and internal JSON formated endpoint documentation
-
-.. code-block:: console
-
-   https://oasth-telematics-api.georgetomzaridis.eu/
    
 API Response
 
@@ -59,10 +53,6 @@ GET /getBusLines
 ------------
 
 Returns all the Bus Lines
-
-.. code-block:: console
-
-   https://oasth-telematics-api.georgetomzaridis.eu/getBusLines
    
 API Response
 
@@ -116,9 +106,6 @@ GET /getRoutes
 
 Returns all the Routes
 
-.. code-block:: console
-
-   https://oasth-telematics-api.georgetomzaridis.eu/getRoutes
    
 API Response
 
@@ -163,10 +150,6 @@ GET /getRouteStops
 ------------
 
 Returns all the stops for every route
-
-.. code-block:: console
-
-   https://oasth-telematics-api.georgetomzaridis.eu/getRouteStops
    
 API Response
 
@@ -211,9 +194,6 @@ GET /getBusStops
 
 Returns all the bus stops
 
-.. code-block:: console
-
-   https://oasth-telematics-api.georgetomzaridis.eu/getBusStops
    
 API Response
 
